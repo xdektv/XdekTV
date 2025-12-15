@@ -2,8 +2,6 @@
 
 ### I'm a Polish 🇵🇱 teenager, that mostly doesn't know what he's doing.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xdektv&label=Profile views&color=0e75b6&style=flat" alt="xdektv" /> </p>
-
 - 🔭 I'm currently working on **some windows mods, mainly ReliveXP, as well as translating stuff related to 10toXPs**
 
 - 🌱 I'm currently learning **HTML and SQL since school, but want to try learning some C# and C++**
