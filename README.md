@@ -2,11 +2,11 @@
 
 ### I'm a Polish 🇵🇱 teenager, that mostly doesn't know what he's doing.
 
-- 🔭 I'm currently working on **some windows mods, mainly ReliveXP, as well as translating stuff related to 10toXPs**
+- 🔭 I'm currently working on **nothing, i'm a lazy fuck**
 
-- 🌱 I'm currently learning **HTML and SQL since school, but want to try learning some C# and C++**
+- 🌱 I'm currently learning **C++ in school, but also some HTML, CSS nad JS**
 
-- 🤝 I'm looking for help with **how to start coding LMAO**
+- 🤝 I'm looking for help with **everything*
 
 - 👨‍💻 All of my projects are available at **[https://xdektv.is-a.dev](https://xdektv.is-a.dev)**
 
