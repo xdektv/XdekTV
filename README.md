@@ -6,7 +6,7 @@
 
 - 🌱 I'm currently learning **C++ in school, but also some HTML, CSS nad JS**
 
-- 🤝 I'm looking for help with **everything*
+- 🤝 I'm looking for help with **everything**
 
 - 👨‍💻 All of my projects are available at **[https://xdektv.is-a.dev](https://xdektv.is-a.dev)**
 
